@@ -9,10 +9,10 @@
 #include <WiFi.h>
 #include "WiFiTask.h"
 
-const char* ssid     = "Test";
-const char* password = "letmeinnow";
+const char* ssid     = "xxxxxxxxxxxxxxxxxx";
+const char* password = "xxxxxxxxxxxxxxxxxx";
 
-String tcp_ip = "192.168.1.3";
+String tcp_ip = "xxx.xxx.xxx.xxx";
 const int tcp_port = 10000;
 
 WiFiClient client;
